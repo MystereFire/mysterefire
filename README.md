@@ -1,7 +1,7 @@
 ### Welcome here, my name's MystereFire 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MystereFire?color=1DA1F2&label=FOLLOW%20%40MystereFire&logo=Twitter&style=for-the-badge)](https://twitter.com/MystereFire)
-[![Website](https://img.shields.io/website?color=GREEN&down_color=RED&down_message=LIGMA.FR&label=VISIT%20MY%20WEBSITE&logo=Google%20Earth&logoColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=LWZ.FR&url=https%3A%2F%2Fligma.fr)](https://ligma.fr)
+[![Website](https://img.shields.io/website?color=GREEN&down_color=RED&down_message=LIGMA.FR&label=VISIT%20MY%20WEBSITE&logo=Google%20Earth&logoColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=LIGMA.FR&url=https%3A%2F%2Fligma.fr)](https://ligma.fr)
 
 ## I'm an independent developer!
 
