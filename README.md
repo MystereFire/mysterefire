@@ -18,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysterefire&show_icons=true&locale=en" alt="mysterefire" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mysterefire&" alt="mysterefire" /></p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LozeKylian&count_private=true&show_icons=true&theme=dark)
+<br />
