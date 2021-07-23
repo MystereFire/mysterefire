@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mysterefire&" alt="mysterefire" /></p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LozeKylian&count_private=true&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MystereFire&count_private=true&show_icons=true&theme=dark)
 <br />
