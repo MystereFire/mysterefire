@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysterefire&show_icons=true&locale=en&layout=compact" alt="mysterefire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysterefire&show_icons=true&locale=en" alt="mysterefire" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MystereFire&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
